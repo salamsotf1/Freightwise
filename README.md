@@ -73,6 +73,7 @@ python -m unittest discover -s tests
 ## Project Workflow Log
 
 - **Initial proof of concept:** Created a reproducible synthetic lane dataset, Prophet and XGBoost forecasting paths, a time-based holdout comparison, and a booking recommendation. Kept all data and computation local.
+- **Repository setup:** Expanded the original GitHub placeholder README (`Freightwise`) into this living project workflow.
 - **Next update:** Record what changed, why it changed, and what was learned here whenever a project milestone is completed.
 
 ## Roadmap
